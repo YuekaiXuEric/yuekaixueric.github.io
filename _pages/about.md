@@ -23,6 +23,7 @@ Beside from research, I'm also a member in [UWClassmates](https://uwclassmate.co
 
 ## 🏅 Competitions & Projects
 - INRIX Amazon University Hack 2023, **ParkinGPT** [[website]](https://devpost.com/software/destchat/)
+- **GPTCheck**: AI-Generated Text Detection Website [[website]](https://github.com/YuekaiXuEric/GPTCheck)
 - Kaggle - LLM Science Exam, **Silver Medal** (Top 4%) [[website]](https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/446303/)
 - Kaggle - CAFA 5 Protein Function Prediction, **Silver Medal** (Top 3%) [[website]](https://www.kaggle.com/yuekaixueirc)
 - Kaggle -LLM Detect Al Generated Text, **Bronze Medal** (Top 8%) [[website]](https://www.kaggle.com/yuekaixueirc)
