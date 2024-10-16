@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an undergraduate student and researcher at the University of Washington. I double major in Computer Science and Applied Mathematics in Data option. I am fortunate to be mentor by [Chien-Yu Lin](https://homes.cs.washington.edu/~cyulin/) at [SampL lab](https://sampl.cs.washington.edu/) in UW CSE.
+Hi! I'm an undergraduate student and researcher at the University of Washington. I double major in Computer Science and Applied Mathematics in Data Science option. I am fortunated to be mentored by [Chien-Yu Lin](https://homes.cs.washington.edu/~cyulin/) at [SampL lab](https://sampl.cs.washington.edu/) in UW CSE.
 
 My research interests are broadly in the fields of machine learning and natural language processing. I'm especially passionate about Large Language Model includes LLM pruning and quantization and their applications in real world scenarios.
 
