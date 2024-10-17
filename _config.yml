@@ -11,7 +11,7 @@ title                    : "Yuekai Xu"
 title_separator          : "-"
 mast_title               : "About"
 name                     : &name "Yuekai Xu"
-description              : &description "Undergrad @ UW CSE & AMATH @ Sheng Wang's Group"
+description              : &description "Undergrad @ UW CSE & AMATH"
 url                      : https://yuekaixueric.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuekaiXuEric/yuekaixueric.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Yuekai Xu"
   avatar           : "yuekai.png"
-  bio              : "Undergrad @ UW CSE & AMATH @ SampL lab"
+  bio              : "Undergrad @ UW CSE & AMATH"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
