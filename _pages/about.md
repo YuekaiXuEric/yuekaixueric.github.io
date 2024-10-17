@@ -9,11 +9,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an undergraduate student and researcher at the University of Washington. I double major in Computer Science and Applied Mathematics in Data Science option. I am fortunated to be mentored by [Chien-Yu Lin](https://homes.cs.washington.edu/~cyulin/) at [SampL lab](https://sampl.cs.washington.edu/) in UW CSE.
+Hi! I'm an undergraduate student and researcher at the University of Washington. I double major in Computer Science and Applied Mathematics in Data Science option. I am fortunated to be advised by Professor [Sheng Wang]([https://homes.cs.washington.edu/~swang/]) and pleased mentored by [Zixuan Liu]([https://scholar.google.com/citations?user=yjKOHbEAAAAJ&hl=zh-CN]) at [Sheng Wang's lab]([https://homes.cs.washington.edu/~swang/]) in UW CSE, UW NLP, and UW Computational Biology.
 
-My research interests are broadly in the fields of machine learning and natural language processing. I'm especially passionate about Large Language Model includes LLM pruning and quantization and their applications in real world scenarios.
+My research interests are broadly in AI4Science, including the fields of machine learning, computer vision, and natural language processing. I am especially passionate about vision-language pretraining, multimodal learning, foundation models, and their applications in biomedicine and clinical medicine.
 
-Beside from research, I'm also a member in [UWClassmates](https://uwclassmate.com/) technology group. We maintain and add new features for the UW courses [website](https://uwclassmate.com/)
+Beside from research, I'm also a member in [UWClassmates](https://uwclassmate.com/) technology group. We maintain and add new features for the UW courses evaluation and discussion [website](https://uwclassmate.com/)
 
 ## 🎓 Education
 - **University of Washington**, *2022 - 2026 (expected)*
