@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an undergraduate student and researcher at the University of Washington. I double major in Computer Science and Applied Mathematics in Data Science option. I am fortunated to be advised by Professor [Sheng Wang]([https://homes.cs.washington.edu/~swang/]) and pleased mentored by [Zixuan Liu]([https://scholar.google.com/citations?user=yjKOHbEAAAAJ&hl=zh-CN]) at [Sheng Wang's lab]([https://homes.cs.washington.edu/~swang/]) in UW CSE, UW NLP, and UW Computational Biology.
+Hi! I'm an undergraduate student and researcher at the University of Washington. I double major in Computer Science and Applied Mathematics in Data Science option. I am fortunated to be advised by Professor [Sheng Wang](https://homes.cs.washington.edu/~swang/) and pleased mentored by [Zixuan Liu](https://scholar.google.com/citations?user=yjKOHbEAAAAJ&hl=zh-CN) at [Sheng Wang's lab](https://homes.cs.washington.edu/~swang/) in UW CSE, NLP, and Computational Biology.
 
 My research interests are broadly in AI4Science, including the fields of machine learning, computer vision, and natural language processing. I am especially passionate about vision-language pretraining, multimodal learning, foundation models, and their applications in biomedicine and clinical medicine.
 
