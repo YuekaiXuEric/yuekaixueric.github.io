@@ -84,7 +84,7 @@ author:
   name             : "Yuekai Xu"
   avatar           : "yuekai.jpg"
   bio              : "Undergrad @ UW CSE & AMATH"
-  location         : # "Location"
+  location         : "Seattle, WA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com/citations?hl=en&user=O-D4QqsAAAAJ"
@@ -118,7 +118,7 @@ author:
   youtube          :
   wikipedia        :
   kaggle           : "yuekaixueric"
-  huggingface      : # "hqfang"
+  huggingface      : 
   x_com            : 
 
 
