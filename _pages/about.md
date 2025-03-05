@@ -15,12 +15,23 @@ My research interests are broadly in AI4Science, including the fields of machine
 
 Beside from research, I'm also a member in [UWClassmates](https://uwclassmate.com/) technology group. We maintain and add new features for the UW courses evaluation and discussion [website](https://uwclassmate.com/)
 
-## Publications
+## 📑 Publications
+`*` Equal Contribution &nbsp;&nbsp;
 
-- **GrInAdapt: Scaling Retinal Vessel Structural Map Segmentation Through Grounding, Integrating and Adapting Multi-device, Multi-site, and Multi-modal Fundus Domains**
-  *Zixuan Liu\**, Aaron Honjaya\**, **Yuekai Xu\* **, Yi Zhang, Hefu Pan, Xin Wang, Linda G. Shapiro, Sheng Wang, Ruikang K. Wang*
-  [paper]() [code](https://anonymous.4open.science/r/GrInAdapt_Adaption-2E5D)
-  *In submission*
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/GrInAdapte_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**GrInAdapt: Scaling Retinal Vessel Structural Map Segmentation Through Grounding, Integrating and Adapting Multi-device, Multi-site, and Multi-modal Fundus Domains**
+<br>*Zixuan Liu\**, Aaron Honjaya\**, **Yuekai Xu\* **, Yi Zhang, Hefu Pan, Xin Wang, Linda G. Shapiro, Sheng Wang, Ruikang K. Wang*
+<br>*In submission*
+<br>
+<a href="">
+  <img src="https://img.shields.io/badge/arXiv-grey?logo=arxiv&logoColor=white&labelColor=red">
+</a>
+<a href="https://anonymous.4open.science/r/GrInAdapt_Adaption-2E5D">
+  <img src="https://img.shields.io/badge/Code-grey?logo=github&logoColor=white&labelColor=black">
+</a>
+</div>
+</div>
 
 ## 🎓 Education
 - **University of Washington**, *2022 - 2026 (expected)*
