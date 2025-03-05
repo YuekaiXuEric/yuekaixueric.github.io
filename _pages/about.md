@@ -18,8 +18,11 @@ Beside from research, I'm also a member in [UWClassmates](https://uwclassmate.co
 ## Publications
 
 - **GrInAdapt: Scaling Retinal Vessel Structural Map Segmentation Through Grounding, Integrating and Adapting Multi-device, Multi-site, and Multi-modal Fundus Domains**
-  *Zixuan Liu\**, Aaron Honjaya\**, **Yuekai Xu\* **, Yi Zhang, Hefu Pan, Xin Wang, Linda G. Shapiro, Sheng Wang, Ruikang K. Wang* \n
+  
+  *Zixuan Liu\**, Aaron Honjaya\**, **Yuekai Xu\* **, Yi Zhang, Hefu Pan, Xin Wang, Linda G. Shapiro, Sheng Wang, Ruikang K. Wang*
+  
   [paper]() [code](https://anonymous.4open.science/r/GrInAdapt_Adaption-2E5D)
+  
   *In submission*
 
 ## 🎓 Education
