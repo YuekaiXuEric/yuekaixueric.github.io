@@ -15,9 +15,15 @@ My research interests are broadly in AI4Science, including the fields of machine
 
 Beside from research, I'm also a member in [UWClassmates](https://uwclassmate.com/) technology group. We maintain and add new features for the UW courses evaluation and discussion [website](https://uwclassmate.com/)
 
+## Publications
+
+- **GrInAdapt: Scaling Retinal Vessel Structural Map Segmentation Through Grounding, Integrating and Adapting Multi-device, Multi-site, and Multi-modal Fundus Domains** (2025)  
+  *Zixuan Liu\**, Aaron Honjaya\**, **Yuekai Xu\**, Yi Zhang, Hefu Pan, Xin Wang, Linda G. Shapiro, Sheng Wang, Ruikang K. Wang*  
+  *In submission*
+
 ## 🎓 Education
 - **University of Washington**, *2022 - 2026 (expected)*
-  <br>*B.S. in Computer Science, AMATH*
+  <br>*B.S. in Computer Science Honors, AMATH*
   <br>
   - Dean’s List (All Quarters & Years)
 
