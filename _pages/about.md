@@ -18,7 +18,7 @@ Beside from research, I'm also a member in [UWClassmates](https://uwclassmate.co
 ## 📑 Publications
 `*` Equal Contribution &nbsp;&nbsp;
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/GrInAdapt_overview.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/GrInAdapt_overview.png' alt="sym" width="10%"></div></div>
 <div class='paper-box-text' markdown="1">
 **GrInAdapt: Scaling Retinal Vessel Structural Map Segmentation Through Grounding, Integrating and Adapting Multi-device, Multi-site, and Multi-modal Fundus Domains**
 <br>Zixuan Liu*, Aaron Honjaya*, <ins>Yuekai Xu*</ins>, Yi Zhang, Hefu Pan, Xin Wang, Linda G. Shapiro, Sheng Wang, Ruikang K. Wang
@@ -31,27 +31,6 @@ Beside from research, I'm also a member in [UWClassmates](https://uwclassmate.co
   <img src="https://img.shields.io/badge/Code-grey?logo=github&logoColor=white&labelColor=black">
 </a>
 </div>
-</div>
-
-<div class='paper-box' style="display: flex; align-items: center;">
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/GrInAdapt_overview.png' alt="sym" width="50%">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-    **GrInAdapt: Scaling Retinal Vessel Structural Map Segmentation Through Grounding, Integrating and Adapting Multi-device, Multi-site, and Multi-modal Fundus Domains**  
-    <br>Zixuan Liu*, Aaron Honjaya*, <ins>Yuekai Xu*</ins>, Yi Zhang, Hefu Pan, Xin Wang, Linda G. Shapiro, Sheng Wang, Ruikang K. Wang  
-    <br>In submission  
-    <br>
-    <a href="">
-      <img src="https://img.shields.io/badge/arXiv-grey?logo=arxiv&logoColor=white&labelColor=red">
-    </a>
-    <a href="https://anonymous.4open.science/r/GrInAdapt_Adaption-2E5D">
-      <img src="https://img.shields.io/badge/Code-grey?logo=github&logoColor=white&labelColor=black">
-    </a>
-  </div>
 </div>
 
 ## 🎓 Education
