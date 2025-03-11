@@ -30,7 +30,7 @@ Beside from research, I'm also a member in [UWClassmates](https://uwclassmate.co
     <br>Zixuan Liu*, Aaron Honjaya*, <ins>Yuekai Xu*</ins>, Yi Zhang, Hefu Pan, Xin Wang, Linda G. Shapiro, Sheng Wang, Ruikang K. Wang  
     <br>In submission  
     <br>
-    <a href="">
+    <a href="https://arxiv.org/abs/2503.05991">
       <img src="https://img.shields.io/badge/arXiv-grey?logo=arxiv&logoColor=white&labelColor=red">
     </a>
     <a href="https://anonymous.4open.science/r/GrInAdapt_Adaption-2E5D">
