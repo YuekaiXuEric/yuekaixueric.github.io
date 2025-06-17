@@ -15,6 +15,9 @@ My research interests are broadly in AI4Science, including the fields of machine
 
 Beside from research, I'm also a member in [UWClassmates](https://uwclassmate.com/) technology group. We maintain and add new features for the UW courses evaluation and discussion [website](https://uwclassmate.com/)
 
+## 🔥 News
+- **[Jun 2025]** Our paper *GrInAdapt: Scaling Retinal Vessel Structural Map Segmentation Through Grounding, Integrating and Adapting Multi-device, Multi-site, and Multi-modal Fundus Domains* has been accepted to [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp)
+
 ## 📑 Publications
 `*` Equal Contribution &nbsp;&nbsp;
 
@@ -28,7 +31,7 @@ Beside from research, I'm also a member in [UWClassmates](https://uwclassmate.co
   <div>
     <strong>GrInAdapt: Scaling Retinal Vessel Structural Map Segmentation Through Grounding, Integrating and Adapting Multi-device, Multi-site, and Multi-modal Fundus Domains</strong>
     <br>Zixuan Liu*, Aaron Honjaya*, <ins>Yuekai Xu*</ins>, Yi Zhang, Hefu Pan, Xin Wang, Linda G. Shapiro, Sheng Wang, Ruikang K. Wang  
-    <br>In submission  
+    <br>MICCAI 2025
     <br>
     <a href="https://arxiv.org/abs/2503.05991">
       <img src="https://img.shields.io/badge/arXiv-grey?logo=arxiv&logoColor=white&labelColor=red">
