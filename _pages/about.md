@@ -9,14 +9,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an undergraduate student and researcher at the University of Washington. I double major in Computer Science and Applied Mathematics in Data Science option. I am fortunated to be co-advised by Professor [Sheng Wang](https://homes.cs.washington.edu/~swang/) and Professor [Linda G Shapiro](https://homes.cs.washington.edu/~shapiro/), and pleased mentored by [Zixuan Liu](https://scholar.google.com/citations?user=yjKOHbEAAAAJ&hl=zh-CN) in UW CSE and Computational Biology.
+Hi! I'm an undergraduate student and researcher at the University of Washington. I double major in Computer Science and Applied Mathematics in Data Science option. I am fortunated to be co-advised by Professor [Sheng Wang](https://homes.cs.washington.edu/~swang/) and Professor [Linda G Shapiro](https://homes.cs.washington.edu/~shapiro/), and pleased mentored by [Zixuan Liu](https://scholar.google.com/citations?user=yjKOHbEAAAAJ&hl=zh-CN) in UW CSE and Computational Biology. We also collaborate closely with Professor [Ruikang (Ricky) Wang](https://depts.washington.edu/wangast/) in UW BioE and Ophthalmology.
 
 My research interests are broadly in AI4Science, including the fields of machine learning, computer vision, and natural language processing. I am especially passionate about vision-language pretraining, multimodal learning, foundation models, and their applications in biomedicine and clinical medicine.
 
-Beside from research, I'm also a member in [UWClassmates](https://uwclassmate.com/) technology group. We maintain and add new features for the UW courses evaluation and discussion [website](https://uwclassmate.com/)
-
 ## 🔥 News
-- **[Jun 2025]** Our paper *GrInAdapt: Scaling Retinal Vessel Structural Map Segmentation Through Grounding, Integrating and Adapting Multi-device, Multi-site, and Multi-modal Fundus Domains* has been accepted to [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp)
+- **[Jun 2025]** Our paper *GrinAdapt: Source-free Multi-Target Domain Adaptation for Retinal Vessel Segmentation* has been accepted to [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp)
 
 ## 📑 Publications
 `*` Equal Contribution &nbsp;&nbsp;
@@ -29,7 +27,7 @@ Beside from research, I'm also a member in [UWClassmates](https://uwclassmate.co
 
   <!-- Text Container -->
   <div>
-    <strong>GrInAdapt: Scaling Retinal Vessel Structural Map Segmentation Through Grounding, Integrating and Adapting Multi-device, Multi-site, and Multi-modal Fundus Domains</strong>
+    <strong>GrinAdapt: Source-free Multi-Target Domain Adaptation for Retinal Vessel Segmentation</strong>
     <br>Zixuan Liu*, Aaron Honjaya*, <ins>Yuekai Xu*</ins>, Yi Zhang, Hefu Pan, Xin Wang, Linda G. Shapiro, Sheng Wang, Ruikang K. Wang  
     <br>MICCAI 2025
     <br>
