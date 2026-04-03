@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About me"
+title: "Yuekai Xu | University of Washington | CS & Applied Mathematics"
+excerpt: "Yuekai Xu's personal website."
 author_profile: true
 layout: single
 redirect_from: 
