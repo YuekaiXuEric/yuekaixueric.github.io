@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an incoming CS PhD student at UCLA, advised by Prof Yuzhe Yang.
+Hi! I'm an incoming CS PhD student at UCLA, advised by Prof <a href="https://web.cs.ucla.edu/~yuzhe/">Yuzhe Yang</a>.
 
 Previously, I obtained my BS degree from the University of Washington, where I double majored in Computer Science (with honors) and Applied Mathematics. I am fortunated to be co-advised by Professor [Sheng Wang](https://homes.cs.washington.edu/~swang/) and Professor [Linda G Shapiro](https://homes.cs.washington.edu/~shapiro/), and pleased mentored by [Zixuan Liu](https://scholar.google.com/citations?user=yjKOHbEAAAAJ&hl=zh-CN) in UW CSE.
 
