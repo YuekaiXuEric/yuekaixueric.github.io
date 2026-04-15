@@ -43,12 +43,7 @@ My research interests are broadly in AI4Science, including the fields of machine
 </div>
 
 ## 📖 Academic Services
-  <li class="resume-entry">
-    <p class="resume-entry__heading"><strong>Teaching Assistant</p>
-    <ul class="resume-entry__details">
-      <li>UW CSE 576: Computer Vision (Grad, <a href="[https://courses.cs.washington.edu/courses/cse493g1/26wi/](https://courses.cs.washington.edu/courses/cse576/26sp/)">Spring 2026</a>)</li>
-    </ul>
-  </li>
+- **UW CSE 576**: Computer Vision (Grad, <a href="[https://courses.cs.washington.edu/courses/cse493g1/26wi/](https://courses.cs.washington.edu/courses/cse576/26sp/)">Spring 2026</a>)
 
 ## 🎓 Education
 - **University of California, Los Angeles**, *2026 - 2031 (Expected)*
