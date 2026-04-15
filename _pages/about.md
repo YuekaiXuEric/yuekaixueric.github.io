@@ -9,7 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an undergraduate student and researcher at the University of Washington. I double major in Computer Science and Applied Mathematics in Data Science option. I am fortunated to be co-advised by Professor [Sheng Wang](https://homes.cs.washington.edu/~swang/) and Professor [Linda G Shapiro](https://homes.cs.washington.edu/~shapiro/), and pleased mentored by [Zixuan Liu](https://scholar.google.com/citations?user=yjKOHbEAAAAJ&hl=zh-CN) in UW CSE and Computational Biology. We also collaborate closely with Professor [Ruikang (Ricky) Wang](https://depts.washington.edu/wangast/) in UW BioE and Ophthalmology.
+Hi! I'm an incoming CS PhD student at UCLA, advised by Prof Yuzhe Yang.
+
+Previously, I obtained my BS degree from the University of Washington, where I double majored in Computer Science (with honors) and Applied Mathematics. I am fortunated to be co-advised by Professor [Sheng Wang](https://homes.cs.washington.edu/~swang/) and Professor [Linda G Shapiro](https://homes.cs.washington.edu/~shapiro/), and pleased mentored by [Zixuan Liu](https://scholar.google.com/citations?user=yjKOHbEAAAAJ&hl=zh-CN) in UW CSE.
 
 My research interests are broadly in AI4Science, including the fields of machine learning, computer vision, and natural language processing. I am especially passionate about vision-language pretraining, multimodal learning, foundation models, and their applications in biomedicine and clinical medicine.
 
@@ -40,11 +42,24 @@ My research interests are broadly in AI4Science, including the fields of machine
   </div>
 </div>
 
+## 📖 Academic Services {#services}
+  <li class="resume-entry">
+    <p class="resume-entry__heading"><strong>Teaching Assistant</p>
+    <ul class="resume-entry__details">
+      <li>UW CSE 576: Computer Vision (Grad, <a href="[https://courses.cs.washington.edu/courses/cse493g1/26wi/](https://courses.cs.washington.edu/courses/cse576/26sp/)">Spring 2026</a>)</li>
+    </ul>
+  </li>
+</ul>
+
 ## 🎓 Education
-- **University of Washington**, *2022 - 2026 (expected)*
+- **University of California, Los Angeles**, *2026 - 2031 (Expected)*
+  <br>*Doctor of Philosophy in Computer Science*
+  <br>
+  - Advised by Prof <a href="https://web.cs.ucla.edu/~yuzhe/">Yuzhe Yang</a>
+- **University of Washington**, *2022 - 2026*
   <br>*B.S. in Computer Science Honors, AMATH*
   <br>
-  - Dean’s List (All Quarters & Years)
+  - Dean’s List (All Quarters & Years), Mary Gates Research Scholarship 2025
 
 ## 🏅 Competitions & Projects
 - INRIX Amazon University Hack 2023, **ParkinGPT** [[website]](https://devpost.com/software/destchat/)
