@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuekai Xu - Personal Website"
+title: "Yuekai Xu"
 excerpt: "Yuekai Xu's personal website."
 author_profile: true
 layout: single
